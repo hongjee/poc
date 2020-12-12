@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1565,
+        30
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/hongjee/poc/master/doc2vec/doc2vec_20Newsgroups_vectors.csv",
+      "metadataPath": "https://raw.githubusercontent.com/hongjee/poc/master/doc2vec/doc2vec_20Newsgroups_vectors_metadata.csv"
+    }
+  ]
+}
